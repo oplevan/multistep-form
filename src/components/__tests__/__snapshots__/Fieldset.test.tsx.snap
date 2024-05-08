@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Fieldset /> component renders correctly 1`] = `
+<div>
+  <fieldset
+    class="border rounded-md px-3 pb-4 space-y-4"
+    data-testid="fieldset"
+  >
+    <legend
+      class="bg-white px-2 text-slate-700"
+    >
+      TEST LEGEND
+    </legend>
+    <div>
+      Test Child
+    </div>
+  </fieldset>
+</div>
+`;

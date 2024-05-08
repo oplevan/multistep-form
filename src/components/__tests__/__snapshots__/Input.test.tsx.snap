@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input /> component should render correctly 1`] = `
+<div>
+  <input
+    class="flex h-8 w-full rounded-md border p-2 text-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 placeholder:text-slate-400"
+  />
+</div>
+`;
+
+exports[`Input should render correctly 1`] = `
+<div>
+  <input
+    class="flex h-8 w-full rounded-md border p-2 text-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 placeholder:text-slate-400"
+  />
+</div>
+`;
